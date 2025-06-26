@@ -1,5 +1,38 @@
-# 💫 About Me:
-# 👋 Hi, I'm Hadi Farajvand<br><br>I'm a passionate and versatile computer engineer with a strong foundation in networking, cybersecurity, and machine learning. My journey blends hands-on experience with academic depth, and I’m constantly evolving my skills to stay ahead in the tech landscape.<br><br>## 💼 Professional Background<br><br>I served as a **Senior Computer Engineer** at **GuardGame™**, where I specialized in server maintenance, deployment, and optimization—particularly for game servers. My focus was on performance, uptime, and automation, ensuring a seamless experience for end-users.<br><br>I hold a **Bachelor’s degree in Electrical Engineering** and am currently pursuing a **Master’s in Computer Engineering** with a focus on networking. My academic background has provided a solid base in both hardware systems and software architecture.<br><br>## 🛠️ Core Skills<br><br>- **Programming Languages:** Python, Bash, C++, MQL4/MQL5  <br>- **Operating Systems:** Debian, Ubuntu, Kali  <br>- **Libraries & Tools:** PyTorch, TensorFlow, Scikit-Learn, OpenCV, NumPy, Pandas  <br>- **IDEs & Platforms:** Anaconda, Google Colab, LaTeX, VSCode  <br>- **Certifications:** Network A+, CEH, Linux+, Network+<br><br>## 🚀 Highlight Projects<br><br>- **📈 Crypto, Gold, and Steam Market Scraper**  <br>  Developed API-based price scrapers with real-time notifications on Telegram for market tracking.<br><br>- **📬 Automated Messaging System for Real Estate**  <br>  Created cross-platform communication bots using WhatsApp, Telegram, and Email integrations.<br><br>- **🤖 Trading Bots for Crypto & Forex**  <br>  Built automated trading systems using MQL and Python for efficient market operations.<br><br>- **📊 Crypto Market Prediction Bots**  <br>  Implemented LSTM-based prediction models tailored for BTC and XRP market analysis.<br><br>- **🧠 Neuroscience Thesis Optimization**  <br>  Enhanced academic research using PSO and K-Fold techniques for data modeling.<br><br>- **🈺 Machine Translation & Transcription Models**  <br>  Built advanced NLP systems using transformer, BERT, and MBART architectures.<br><br>- **📡 Federated Learning Framework**  <br>  Designed a federated learning system with customized CNNs using PyTorch, DRL, and Mininet.<br><br>## 📫 Let's Connect<br><br>- 📧 Email: workhadifarajvand@gmail.com  <br>- 🔗 LinkedIn: [hadi-farajvand-3431b02a1](https://linkedin.com/in/hadi-farajvand-3431b02a1)  <br>- 🧠 GitHub: [endway2001](https://github.com/endway2001)  <br><br>---<br><br>I'm always looking for new challenges and collaborations. If you're working on something exciting or looking for someone to help build intelligent systems, feel free to reach out!<br>
+# 👋 Hi, I'm Hadi Farajvand
+
+A computer engineer with a strong focus on **networking**, **cybersecurity**, and **machine learning**. I bring hands-on experience in server optimization, automation, and AI-based systems—backed by solid academic training.
+
+## ⚙️ Tech Stack
+**Languages:** Python, Bash, C++, MQL  
+**Tools:** PyTorch, TensorFlow, Scikit-Learn, OpenCV, NumPy, Pandas  
+**OS:** Debian, Ubuntu, Kali  
+**Certifications:** Network+, CEH, Linux+  
+**IDEs:** VSCode, Anaconda, Colab
+
+## 💼 Experience
+- **Senior Computer Engineer** @ GuardGame™  
+  Managed and deployed high-performance game servers with automated monitoring and support.
+
+## 🚀 Projects
+- **Crypto & Forex Trading Bots** – Automated traders using Python/MQL  
+- **Market Scrapers** – Real-time crypto/gold/Steam price trackers  
+- **NLP Models** – Translation & transcription with transformers  
+- **Federated Learning** – Distributed deep learning using PyTorch & DRL  
+- **Real Estate Messaging Bot** – Auto outreach via WhatsApp, Telegram, Email
+
+## 🎓 Education
+- **M.Sc. Computer Engineering** — Azad University, Tabriz  
+- **B.Sc. Electrical Engineering** — TVU, Tabriz
+
+## 📫 Reach Me
+📧 workhadifarajvand@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/hadi-farajvand-3431b02a1)  
+🐙 [GitHub](https://github.com/endway2001)
+
+---
+
+Let's connect and build something awesome.
+
 
 
 ## 🌐 Socials:
