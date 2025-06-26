@@ -27,7 +27,7 @@ A computer engineer with a strong focus on **networking**, **cybersecurity**, an
 ## 📫 Reach Me
 📧 workhadifarajvand@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/hadi-farajvand-3431b02a1)  
-🐙 [GitHub]([https://github.com/endway2001](https://github.com/hadifarajvand))
+🐙 [GitHub](https://github.com/hadifarajvand)
 
 ---
 
